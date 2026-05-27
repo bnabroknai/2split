@@ -1,0 +1,6 @@
+{
+  "name": "Split Screen Guide",
+  "description": "A comprehensive guide for split-screen and multi-window productivity across Chromebook, Android, and iOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
